@@ -3,13 +3,13 @@ Most tech is designed with the best intentions. But once a product is released a
 Different tech runs different risks.
 This checklist will help you prioritize your efforts.
 
-Choose a technology, product or feature you’re working on. Read through the checklist andidentify the questions and risk zones most relevant to you and the technology you’ve chosen.Use the “Now what?” action items to start investigating and mitigating these risks.
+Choose a technology, product or feature you’re working on. Read through the checklist and identify the questions and risk zones most relevant to you and the technology you’ve chosen. Use the “Now what?” action items to start investigating and mitigating these risks.
 
 Risk Zone 1: Truth, Disinformation, and Propaganda
 
 What type of data do users expect you to accurately share, measure or collect?
 
-How could bad actors use your tech to subvert or attack the truth?What could potentially become the equivalent of fake news, bots or deep fake videos on your platform?
+How could bad actors use your tech to subvert or attack the truth? What could potentially become the equivalent of fake news, bots or deep fake videos on your platform?
 
 How could someone use this technology to undermine trust in established social institutions, like media, medicine, democracy, science? Could your tech be used to generate or spread misinformation to create political distrust or social unrest.
 
